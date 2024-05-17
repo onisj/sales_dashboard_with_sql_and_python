@@ -1,5 +1,6 @@
 ## Project Overview
-<img src="report/pic1.png" alt="ExecutiveDashboard">
+
+![pic](report/pic1.png)
 
 This project involves analyzing sales data provided by a start-up that sells various products through multiple channels. The goal is to create a dashboard that provides insights on a weekly basis to inform strategy. The analysis focuses on identifying key trends, patterns, and potential areas for improvement. Additionally, the project aims to identify gaps and additional data to track for making meaningful decisions at the executive level.
 
